@@ -53,7 +53,7 @@
 
       <div class="subscribe">
         <h4>Subscribe now to get the latest updates!</h4>
-        <form action="conn.php" method="post" role="form" class="php-email-form">
+        <form action="index.php" method="post" role="form" class="php-email-form">
           <div class="subscribe-form">
 
             <input type="email" name="email"><input type="submit" value="Subscribe">
